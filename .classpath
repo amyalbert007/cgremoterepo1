@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="MyFirstMavenProject/src/test/java/|MyFirstMavenProject/src/main/java/|My Java Project/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="My Java Project/src"/>
+	<classpathentry kind="src" path="MyFirstMavenProject/src/main/java"/>
+	<classpathentry kind="src" path="MyFirstMavenProject/src/test/java"/>
+	<classpathentry kind="output" path="My Java Project/bin"/>
+</classpath>
